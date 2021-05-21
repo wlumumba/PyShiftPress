@@ -9,3 +9,5 @@ while True:
     """
     pyautogui.press('shift')
     print("Shift button pressed at {}".format(time.strftime('%I:%M:%S')))
+
+    
